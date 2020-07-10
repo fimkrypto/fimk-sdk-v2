@@ -1,3 +1,3 @@
-# heat-sdk-v2
+# fimk-sdk-v2
 
-Optimized NodeJS only port of heat-sdk
+Optimized NodeJS only port of fimk-sdk
